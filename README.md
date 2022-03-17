@@ -1,1 +1,0 @@
-# Travelling-Salesman-Problem-With-Genetic-Algorithm-Pyhton
